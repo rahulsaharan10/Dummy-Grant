@@ -70,7 +70,7 @@ Dr. John Wu - Core Dev of Litentry Parachain Team. The University of Tokyo
 
 ### Contact
 
-- **Contact Name:** Han Zhao
+- **Contact Name:** Rahul
 - **Contact Email:** windzhaohan@gmail.com
 - **Website:** <https://admeta.network/>
 
